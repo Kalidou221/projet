@@ -1,0 +1,57 @@
+body {
+    background-color: turquoise;
+}
+
+img {
+    width: 100%;
+    height: 1000px;
+}
+
+p.justification {
+    text-align: justify;
+    color: black;
+}
+
+strong {
+    font-size: 100px;
+    color: red;
+    text-shadow: 15px 15px 15px black;
+
+}
+
+.centre {
+    text-align: center;
+    margin: 40%px auto;
+
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 150px;
+    color: white;
+    text-shadow: 8px 8px 5px black;
+}
+
+nav {
+    margin-top: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    padding: 50px auto;
+    
+}
+
+.video {
+    width: 60%;
+    margin: 70% auto;
+}
+
+.Bande {
+    font-weight: bold;
+    text-align: center;
+
+}
+.kali{
+    flex-direction: row-reverse;
+}
+
